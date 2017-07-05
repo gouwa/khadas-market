@@ -1,4 +1,4 @@
-﻿***Khadas***是一个专注软件开源、DIY、发烧友、极客的品牌，目前发布的产品有VIM、VIM2。
+﻿**Khadas**是一个专注软件开源、DIY、发烧友、极客的品牌，目前发布的产品有VIM、VIM2。
 
 VIM、VIM2产品可以同时覆盖OTT、SBC市场。
 
@@ -9,6 +9,8 @@ VIM、VIM2产品可以同时覆盖OTT、SBC市场。
 * 在SBC市场，以树莓派为代表2016年SBC市场出货总量11.7M台，从现阶段数据上看，OTT的数量上升减缓，SBC市场稳步上升[1]
 
 * 据Global Market Insights调研报告[1]，SBC市场2017年，以12.5%年增长率，至20
+
+[1]. [Single Board Computer Market](https://www.gminsights.com/industry-analysis/single-board-computer-sbc-market)
 
 该报告主要从SBC、OTT两个市场调研。
 
@@ -27,7 +29,9 @@ Khadas VIM比Raspberry Pi 3B整体上性能更强，集成度更高，主要对�
   Price[2]  | USD38.99  | USD43.99
 
 [0] IR: 由于很多用于基于SBC/Raspberry Pi安装Kodi，IR红外可以方便TV用户
+
 [1] RTC: RTC可用于广告机等行业拓展
+
 [2] 价格于2017年7月6日从Gearbest.com获取
   
 * **ODROID C2**
@@ -44,7 +48,9 @@ Khadas VIM2与ODROID C2整体上性能更强，集成度更高，主要对比参
   WOL[2]  | None  | Yes
   
 [0] RSDB: 集成两路MAC，支持连接路由器的同时生成AP热点用于分享
+
 [1] SPI FLASH：用于uboot启动，类似电脑的BIOS启动，此功能用于服务器产品扩展
+
 [2] WOL：wake on lan，网络唤醒功能，应用于广告机产品
   
   
@@ -58,29 +64,3 @@ Khadas VIM2与ODROID C2整体上性能更强，集成度更高，主要对比参
 
 
 
-
-
-
-
-
-[1]. [Single Board Computer Market](https://www.gminsights.com/industry-analysis/single-board-computer-sbc-market)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.zybuluo.com/mdeditor
